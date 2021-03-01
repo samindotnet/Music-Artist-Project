@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicArtistProject</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Hip Hop</item>
+        <item>Pop</item>
+        <item>Rhythm and blues</item>
+        <item>Trap</item>
+        <item>Latin American</item>
+    </array>
+</resources>

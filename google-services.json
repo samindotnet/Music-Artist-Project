@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37505375308",
+    "project_id": "musicartistproject-1c811",
+    "storage_bucket": "musicartistproject-1c811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37505375308:android:d16391adb97a581e4368e9",
+        "android_client_info": {
+          "package_name": "com.example.musicartistproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37505375308-484i2k14d9b16u5bglc1the2g8bkte4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALShPKSknqWQ88Uzd5KExV-NurCIayL8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37505375308-484i2k14d9b16u5bglc1the2g8bkte4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
